@@ -41,3 +41,6 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 2147483648
 
 # Releasetools
 TARGET_RELEASETOOLS_EXTENSIONS := device/sony/sirius
+
+# External apps on SD
+TARGET_EXTERNAL_APPS = sdcard1
