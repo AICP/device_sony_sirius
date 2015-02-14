@@ -26,7 +26,7 @@ TARGET_SPECIFIC_HEADER_PATH += device/sony/sirius/include
 BOARD_HARDWARE_CLASS += device/sony/sirius/cmhw
 
 # Kernel properties
-TARGET_KERNEL_CONFIG := cm_shinano_sirius_defconfig
+TARGET_KERNEL_CONFIG := slim_shinano_sirius_defconfig
 
 # Partition information
 BOARD_VOLD_MAX_PARTITIONS := 25
